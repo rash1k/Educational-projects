@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252933094475",
+    "firebase_url": "https://location-23220.firebaseio.com",
+    "project_id": "location-23220",
+    "storage_bucket": "location-23220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252933094475:android:0082f524496bffaa",
+        "android_client_info": {
+          "package_name": "com.rash1k.adressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252933094475-pfiqpqo15n6socpfub0depdmmmvoh5gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1H7RvWp1AjRW1fCEd-IRYqaFOrqxU6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
